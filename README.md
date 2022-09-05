@@ -1,2 +1,2 @@
 # Manual_Testing
-Testing Manually for Websites 
+This is a Demo Project of Manual testing 
